@@ -186,7 +186,7 @@ h1, h2, h3 {
 #btn-feature-started {
   font-size: 1.1rem;
   font-weight: 600;
-  padding: 25px 110px;
+  width: 60%;
   height: 80px;
   border-radius: 40px;
 }
@@ -382,6 +382,11 @@ li#contact-email {
 
   .right-content .feature-img {
     float: left;
+  }
+
+  /* Ready to build */
+  #btn-feature-started {
+    width: 85%;
   }
 
   /* Footer */
